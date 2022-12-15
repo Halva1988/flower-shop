@@ -1,0 +1,8 @@
+.container {
+    width: 100%;
+    max-width: calc(var(--grid-width) + var(--grid-padding) * 2);
+    margin: 0 auto;
+    padding-left: var(--grid-padding);
+    padding-right: var(--grid-padding);
+    background-color: aquamarine;
+}
